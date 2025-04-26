@@ -34,6 +34,14 @@ A modern Flutter-based mobile application that fetches and displays products fro
 - Google Fonts
 - GetX (if used)
 
+## 🧑‍💻 Author
+
+**Faysal Bin Alauddin**  
+📧 Email: faysalf716@gmail.com  
+🔗 GitHub: [Faysal Bin Alauddin](https://github.com/faysalcsecu)  
+🔗 LinkedIn: [Faysal Bin Alauddin](https://www.linkedin.com/in/faysal-bin-alauddin-4815a92a7/)
+
+
 ## 🛠️ Project Structure
 
 ```bash
@@ -48,3 +56,10 @@ lib/
 │   ├── widgets/
 │   └── utils/
 └── main.dart
+
+## 🧑‍💻 Author
+
+**Faysal Bin Alauddin**  
+📧 Email: faysalf716@gmail.com  
+🔗 GitHub: [Faysal Bin Alauddin](https://github.com/faysalcsecu)  
+🔗 LinkedIn: [Faysal Bin Alauddin](https://www.linkedin.com/in/faysal-bin-alauddin-4815a92a7/)
